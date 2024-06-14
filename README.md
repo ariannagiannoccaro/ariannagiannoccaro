@@ -8,7 +8,7 @@
 
 <div align="center">
  
- 🌱 I’m currently learning **Web programming, Python & AI**
+ 🌱 I’m currently learning **Web programming**
 
 ⚡ Quote?: **Success is a decision**
 
@@ -27,6 +27,6 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,github,figma,git" />
-    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript" /><br>
+    <img src="https://skillicons.dev/icons?i=nodejs,javascript" /><br>
 </div>
 
