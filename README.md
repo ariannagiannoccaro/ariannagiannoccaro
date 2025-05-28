@@ -26,7 +26,6 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools I'm also Learning ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,github,figma,git" />
-    <img src="https://skillicons.dev/icons?i=nodejs,javascript" /><br>
+    <img src="https://skillicons.dev/icons?i=bootstrap,html,css,vscode,github,figma,git,sql,java" />
 </div>
 
