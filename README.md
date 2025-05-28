@@ -26,6 +26,6 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools I'm also Learning ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=bootstrap,html,css,vscode,github,figma,git,mysql,java,python,postgres,ia" />
+    <img src="https://skillicons.dev/icons?i=bootstrap,html,css,vscode,github,figma,git,mysql,java,python,postgres" />
 </div>
 
