@@ -8,7 +8,7 @@
 
 <div align="center">
  
- 🌱 I’m currently learning **Web programming**
+ 🌱 I’m currently learning about **technology**
 
 ⚡ Quote?: **Success is a decision**
 
@@ -26,6 +26,6 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools I'm also Learning ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=bootstrap,html,css,vscode,github,figma,git,sql,java" />
+    <img src="https://skillicons.dev/icons?i=bootstrap,html,css,vscode,github,figma,git,mysql,java" />
 </div>
 
